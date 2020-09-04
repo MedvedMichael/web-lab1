@@ -1,0 +1,24 @@
+body {
+    background-color: dimgray;
+}
+
+.flex {
+    display: flex;
+}
+
+#input1 {
+    font-size: x-large;
+}
+
+#button1 {
+    font-size: x-large;
+}
+
+#target {
+    margin: 0 auto;
+    font-size: x-large;
+}
+
+.form-input {
+   margin: 5rem auto;
+}
